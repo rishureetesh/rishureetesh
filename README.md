@@ -4,7 +4,8 @@
 
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Reetesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamreeteshkr/)](https://www.linkedin.com/in/iamreeteshkr/)
+[![Linkedin Badge](https://img.shields.io/badge/-Reetesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamreeteshkumar/)](https://www.linkedin.com/in/iamreeteshkumar/)
+
 
 I'm
 Full Stack Developer -
@@ -18,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I read tech articles, explore new technologies and do freelancing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamreeteshkr)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Reetesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iamreeteshkumar)
 
 ---
 
