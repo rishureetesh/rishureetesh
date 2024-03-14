@@ -9,7 +9,7 @@
 
 I'm
 Full Stack Developer -
-The crossover between design and programming has always been of interest to me, ability to learn and implement new technologies quickly. Passionate about implementing and launching new projects. I have a wide range of skills that include front-end development (ReactJs, Taildwind CSS, HTML5, CSS3, Javascript, Responsive, UX), back-end development using technologies (Java, Python), Frameworks (Spring Boot, Django/Flask), Cloud technologies (AWS), database(Mysql), Docker
+The crossover between design and programming has always been of interest to me, the ability to learn and implement new technologies quickly. Passionate about implementing and launching new projects. I have a wide range of skills that include front-end development (ReactJS, Tailwind CSS, HTML5, CSS3, Javascript, Responsive, UX), back-end development using technologies (Java, Python), Frameworks (Flask, FastAPI), Cloud technologies (AWS), database(MySQL), Docker
 
 
 ### 💻: &nbsp;About Me :
@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I read tech articles, explore new technologies and do freelancing.
+- ⚡ In my free time I read tech articles, explore new technologies, and do freelancing.
 - 📫 How to reach me: &nbsp; https://iamreetesh.com/
 ---
 
