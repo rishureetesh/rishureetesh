@@ -8,13 +8,22 @@
 
 
 I'm
-Full Stack Developer -
-The crossover between design and programming has always been of interest to me, the ability to learn and implement new technologies quickly. Passionate about implementing and launching new projects. I have a wide range of skills that include front-end development (ReactJS, Tailwind CSS, HTML5, CSS3, Javascript, Responsive, UX), back-end development using technologies (Java, Python), Frameworks (Flask, FastAPI), Cloud technologies (AWS), database(MySQL), Docker
+Experienced Engineer with strong problem-solving skills and a passion for building applications that make life easier. I enjoy working collaboratively, thinking creatively, and meeting deadlines with efficiency.
+
+I have a quick learning curve when it comes to new technologies and love turning business requirements into practical, technical solutions. My skills include AWS, Python, Flask, FastAPI, Docker, Apache Airflow, and MySQL, and I’m always focused on delivering impactful and efficient solutions.
+
+I’ve worked extensively as a Data Engineer and am now diving into AI/ML. I'm comfortable managing data workflows with Apache Airflow and ensuring data flows seamlessly across systems. Right now, I’m also working on leveraging generative AI to create smarter, more efficient applications.
+
+I’ve got solid expertise in AWS, having worked with services like EC2, S3, Lambda, and more to build scalable and reliable systems. Using AWS, I’ve been able to improve application performance and optimize cloud operations.
+
+I’m all about improving systems, simplifying processes, and adding value through smarter, data-driven decisions.
+
+Currently, I have been working on Generative AI, training AI models as per requirements and creating dataset for the same, to make model more reliable and usable for a particular scenario.
 
 
 ### 💻: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
